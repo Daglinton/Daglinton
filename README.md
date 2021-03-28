@@ -5,7 +5,7 @@ Iam Daglinton - SU-AMIGO CODE
 <p>your wellcome to my Git-Hub</p> 
 <pre>
 let nombre= nombre => return nombre;
-nombre('Soy un desarrollador fullstack');
+nombre('Iam devellop fullstack');
 </pre>
 <!--
 **Daglinton/Daglinton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
